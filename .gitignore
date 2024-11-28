@@ -1,0 +1,14 @@
+# Misc
+.DS_Store
+yarn-error.log
+tsconfig.tsbuildinfo
+package-lock.json
+
+# Dependencies
+node_modules/
+
+# Local env files
+.env
+
+# asdf version manager
+.tool-versions
